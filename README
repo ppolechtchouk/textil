@@ -1,0 +1,17 @@
+# textil
+
+TEXTIL is a wiki markup to xHTML converter, as well as a collection of supporting utility functions.
+
+## Usage
+
+FIXME: write
+
+## Installation
+
+FIXME: write
+
+## License
+
+Copyright (C) 2010 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
